@@ -2,7 +2,8 @@
 #mygit_20210205_1434  
 #mygit_20210205_15:25 Local Edit 
 
-
+- [https://e7one.net]
+- [https://samofor.github.io/mygit/Wallpaper/]
 # e7oneStudio
 ## e7oneStudio
 ### e7oneStudio
