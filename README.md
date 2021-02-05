@@ -1,9 +1,13 @@
-#mygit_20210205_1023
-#mygit_20210205_1434
-#mygit_20210205_15:25 Local Edit
+#mygit_20210205_1023  
+#mygit_20210205_1434  
+#mygit_20210205_15:25 Local Edit 
+
+
 # e7oneStudio
 ## e7oneStudio
 ### e7oneStudio
+---
+Git研習測試 
 
 <img src="https://1.bp.blogspot.com/-pt4k_FGXa9Q/X3_X8Zvq8BI/AAAAAAADnQY/7mHfYlBqbhg-meqTjoaNzmbTmK-uz5qeACPcBGAsYHg/s2400/P_20201008_162601_1.jpg">
 
