@@ -13,6 +13,7 @@
 ### e7oneStudio
 ---
 Git研習測試 
+<img src="Wallpaper\IMG_Wallpaper-WinServer2012R2-1920x1280_Violet.jpg">
 
 <img src="https://1.bp.blogspot.com/-pt4k_FGXa9Q/X3_X8Zvq8BI/AAAAAAADnQY/7mHfYlBqbhg-meqTjoaNzmbTmK-uz5qeACPcBGAsYHg/s2400/P_20201008_162601_1.jpg">
 
