@@ -3,7 +3,11 @@
 #mygit_20210205_15:25 Local Edit 
 
 - [https://e7one.net]
-- [https://samofor.github.io/mygit/Wallpaper/]
+
+- [https://samofor.github.io/mygit/Wallpaper/IMG_Wallpaper-Ubuntu18_Edu2019-1920x1280_Gray.jpg]
+
+<img src="https://samofor.github.io/mygit/Wallpaper/IMG_Wallpaper-Ubuntu18_Edu2019-1920x1280_Gray.jpg">
+
 # e7oneStudio
 ## e7oneStudio
 ### e7oneStudio
